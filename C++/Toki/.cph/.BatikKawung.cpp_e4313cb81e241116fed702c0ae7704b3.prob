@@ -1,0 +1,1 @@
+{"name":"Local: BatikKawung","url":"c:\\Users\\Revy Pramana\\Documents\\Vscode\\C++\\Toki\\BatikKawung.cpp","tests":[{"id":1671455997780,"input":"4 a 8","output":"8aa8\na88a\na88a\n8aa8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Revy Pramana\\Documents\\Vscode\\C++\\Toki\\BatikKawung.cpp","group":"local","local":true}
