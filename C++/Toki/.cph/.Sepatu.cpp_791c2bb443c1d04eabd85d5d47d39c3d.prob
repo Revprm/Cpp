@@ -1,1 +1,0 @@
-{"name":"Local: Sepatu","url":"c:\\Users\\Revy Pramana\\Documents\\Vscode\\C++\\Toki\\Sepatu.cpp","tests":[{"id":1671508784348,"input":"5 5\n11\n10\n12\n10\n13\n11\n9\n10\n11\n13","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Revy Pramana\\Documents\\Vscode\\C++\\Toki\\Sepatu.cpp","group":"local","local":true}
