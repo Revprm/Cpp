@@ -1,1 +1,0 @@
-{"name":"Local: A Counting","url":"c:\\Users\\Revy Pramana\\Documents\\Vscode\\C++\\Toki\\A Counting.cpp","tests":[{"id":1671671959105,"input":"2\n100 1000\n100 1001","output":"Case #1: 625\nCase #2: impossible"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Revy Pramana\\Documents\\Vscode\\C++\\Toki\\A Counting.cpp","group":"local","local":true}
