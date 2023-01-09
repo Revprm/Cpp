@@ -1,7 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
+#define FAST ios_base::sync_with_stdio(false); cin.tie(NULL)
 
 int main(){
+    FAST;
     int N, a = 0, b = 0; cin >> N;
     int arr1[N], arr2[N];
     for (int i = 0; i < N; i++) cin >> arr1[i];
