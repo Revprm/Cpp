@@ -1,8 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
- string teksAsterisk, inputTeks;
- int N;
+string teksAsterisk, inputTeks;
+int N;
 int main(){
     cin >> teksAsterisk >> N;
     int asterisk = teksAsterisk.find("*");
