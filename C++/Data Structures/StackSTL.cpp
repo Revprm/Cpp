@@ -1,4 +1,4 @@
-// Stack implementation using C++ stl
+// Stack implementation using C++ STL
 #include <bits/stdc++.h>
 using namespace std;
 
