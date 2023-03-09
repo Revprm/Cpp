@@ -1,18 +1,20 @@
 // Stack implementation using C++ STL
 #include <bits/stdc++.h>
 using namespace std;
+#define fast ios_base::sync_with_stdio(false);cin.tie(NULL);
 
 int main(){
-    stack <int> stck;
+    fast;
+    stack <int> s;
     int N; cin >> N;
     while (N--){
         int num; cin >> num;
-        stck.push(num);
+        s.push(num);
 
     }
-    while (!stck.empty()){
-        cout << stck.top() << " ";
-        stck.pop();
+    while (!s.empty()){
+        cout << s.top() << " ";
+        s.pop();
     }
     return 0;
 }
