@@ -34,7 +34,7 @@ void ShowQ (queue <int> sQ){
     cout << '\n';
 }
 int main(){
-    Fast
+    Fast;
     queue <int> Q;
     int N; cin >> N;
     while (N--){
