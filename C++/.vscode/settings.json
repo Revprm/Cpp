@@ -1,6 +1,10 @@
 {
     "files.associations": {
         "type_traits": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "string": "cpp",
+        "deque": "cpp",
+        "iterator": "cpp",
+        "iostream": "cpp"
     }
 }
