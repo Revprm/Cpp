@@ -1,0 +1,1 @@
+{"name":"Local: BarisanIntip","url":"c:\\Users\\Indop\\OneDrive\\Documents\\Vscode\\C++\\Toki\\BarisanIntip.cpp","tests":[{"id":1678432240728,"input":"8\n5\n1\n3\n4\n6\n5\n2\n6","output":"22"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Indop\\OneDrive\\Documents\\Vscode\\C++\\Toki\\BarisanIntip.cpp","group":"local","local":true}
